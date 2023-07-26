@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm ChetanUppalwar</h1>
-<h3 align="center">I'm a passionate and Aspiring Data Scientist. I am enhancing my knowledge with the latest development in the field of Data Science with focus on Feature Engineering, Data pre-processing, Data collection (Webscraping) and model training.</h3>
+<h3 align="center">I'm a passionate and Aspiring Software Developer. Passionated to work in backend development. </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=uchetan&label=Profile%20views&color=0e75b6&style=flat" alt="uchetan" /> </p>
 
-- 🌱 I’m currently learning :-  **Machine learning , Dev-ops** <p> <img src="https://user-images.githubusercontent.com/86594167/144859412-7b2cce01-a4fa-4ef9-a2d0-8479c006fdfa.gif"  width="540" height="340" align="right"/></p>
+- 🌱 I’m currently learning :-  Full Stack Java Development <p> <img src="https://user-images.githubusercontent.com/86594167/144859412-7b2cce01-a4fa-4ef9-a2d0-8479c006fdfa.gif"  width="540" height="340" align="right"/></p>
 
-- 💬 Ask me about **Python,scikit-learn**
+- 💬 Ask me about **Python,Database Tools
 
 - 📫 How to reach me **chetanuppalwar@gmail.com**
 
